@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
   cout << "owner: Jekaterina Blinova";
- cout << "maksims fedosejevs";
-   cout << ": berwy"; 
-  }
+  cout << "Anna Butujeva";
+   cout << "berwy"; 
+   cout << "maksims fedosejevs";
+
